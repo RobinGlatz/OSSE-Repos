@@ -5,5 +5,3 @@ Kovertüre
 Jogurt
 Backpulver
 Vanillzucker
-
-Changes
